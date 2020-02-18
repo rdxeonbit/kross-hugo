@@ -16,7 +16,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [[menu.main]]
-URL = "https://dex.xeonbit.com"
+URL = "http://xeonbitdex.eth.link"
 name = "Distributed Exchange"
 weight = 4
 [params]
